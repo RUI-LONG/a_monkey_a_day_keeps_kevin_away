@@ -39,7 +39,7 @@ Here's the reason why I made this:
 
 So I decided to waste three hours writing this project.
 
-If you also have a colleague who is a monkey, welcome to the zoo !
+If you have a colleague is also a monkey, welcome to the zoo !
 
 </br>
 
